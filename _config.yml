@@ -22,7 +22,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 #github_username:  jekyll
 
 # Build settings
-markdown: kramdown
+markdown: 
 theme: minima
 plugins:
   - jekyll-feed
