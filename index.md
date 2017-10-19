@@ -8,8 +8,8 @@ layout: page
 |----
 | Monday 23 October | Topic / Activity | Instructor | Room | Slides / Tutorial |
 |:-|:-|:-|:-|:-
-| 13:30-14:00 | Registration | | | |
-| 14:00-17:00 |Introduction to the Linux command line / intro to R | Gerrit / Katie | Health - Wolfson Lab 1 | [Linux tutorial](https://grbot.github.io/shell-novice/) |
+| 13:30-14:00 | Registration | Leigh | Anzio road foyer | |
+| 14:00-17:00 |Introduction to the Linux command line / intro to R | Gerrit / Katie | Health - Wolfson Lab 1 | [Linux tutorial](http://swcarpentry.github.io/shell-novice/), [R tutorial](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/) |
 | **Tuesday 24 October** | | | | |
 | 09:00-09:15 | Welcome | Nicky | Health - Wolfson Lab 1 | |
 | 09:15-10:00 | The human microbiome – overview of bacteria, fungi, and viruses|Shantelle | Health - Wolfson Lab 1 | |
@@ -31,7 +31,7 @@ layout: page
 | 15:00-15:30 | Coffee / tea break | | IDM cafeteria | |
 | 15:30-17:00 | Tutorial in usearch and QIIME | Gerrit / Samson | Health - Wolfson Lab 1 | |
 | **Thursday 26 October** | | | | |
-| 09:00-09:45 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 | |
+| 09:00-09:45 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 |[Downstream analysis in R tutorial](https://github.com/grbot/16SrRNA-hex-tutorial/tree/master/downstream) |
 | 09:45-10:30 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 | |
 | 10:30-11:00 | Coffee / tea break | | IDM cafeteria | |
 | 11:00-13:00 | Downstream analysis in R - Phyloseq, NMF|Katie / Jerome | Health - Wolfson Lab 1 | |
