@@ -16,13 +16,13 @@
 title: UCT microbiome workshop 2017
 email: ""
 description: ""
-baseurl: "/uct_microbiome_2017" # the subpath of your site, e.g. /blog
+baseurl: "/uct-microbiome-2017" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 # Build settings
-markdown: 
+markdown:
 theme: minima
 plugins:
   - jekyll-feed
