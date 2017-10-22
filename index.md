@@ -9,7 +9,7 @@ layout: page
 | Monday 23 October | Topic / Activity | Instructor | Room | Slides / Tutorial |
 |:-|:-|:-|:-|:-
 | 13:30-14:00 | Registration | Leigh | Anzio road foyer | |
-| 14:00-17:00 |Introduction to the Linux command line / intro to R | Gerrit / Katie | Health - Wolfson Lab 1 | [Linux tutorial](http://swcarpentry.github.io/shell-novice/), [R tutorial](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/) |
+| 14:00-17:00 |Introduction to the Linux command line / intro to R | Gerrit / Katie | Health - Wolfson Lab 1 | [Linux tutorial](http://swcarpentry.github.io/shell-novice/02-filedir/), [R tutorial](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/) |
 | **Tuesday 24 October** | | | | |
 | 09:00-09:15 | Welcome | Nicky | Health - Wolfson Lab 1 | |
 | 09:15-10:00 | The human microbiome – overview of bacteria, fungi, and viruses|Shantelle | Health - Wolfson Lab 1 | |
