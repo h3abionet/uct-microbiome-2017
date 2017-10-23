@@ -23,7 +23,7 @@ layout: page
 | 15:30-17:00 | 16S rRNA sequencing bio-informatics pipeline: the theory|Samson|Health - Wolfson Lab 1|[The microbiome: analysis of NGS data](http://web.cbio.uct.ac.za/~gerrit/slides/Microbiome_Analysis_of_NGS_data.pdf)|
 | **Wednesday 25 October** | | | | |
 | 09:00-09:45 | 16S analysis pipeline - QC, OTU picking, classification, alignment | Gerrit | Health - Wolfson Lab 1 | |
-| 09:45-10:30 | Tutorial in usearch and QIIME | Gerrit / Samson | Health - Wolfson Lab 1 | [Data analysis of_16S rRNA gene amplicons](http://web.cbio.uct.ac.za/~gerrit/slides/data_analysis_of_16S_rRNA_gene_amplicons_uct.pdf), [usearch and QIIME tutorial](https://github.com/grbot/16SrRNA-hex-tutorial)|
+| 09:45-10:30 | Tutorial in usearch and QIIME | Gerrit / Samson | Health - Wolfson Lab 1 | [Data analysis of 16S rRNA gene amplicons](http://web.cbio.uct.ac.za/~gerrit/slides/data_analysis_of_16S_rRNA_gene_amplicons_uct.pdf), [usearch and QIIME tutorial](https://github.com/grbot/16SrRNA-hex-tutorial)|
 | 10:30-11:00 | Coffee / tea break | | IDM cafeteria | |
 | 11:00-13:00 | Tutorial in usearch and QIIME | Gerrit / Samson | Health - Wolfson Lab 1 | |
 | 12:30-13:30 | Lunch | | MAC club | |
