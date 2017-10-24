@@ -18,7 +18,7 @@ layout: page
 | 11:00-12:00 | Microbiome research: where are we now?|Shantelle|Health - Wolfson Lab 1 | [III](http://web.cbio.uct.ac.za/~gerrit/slides/shantelle/UCT_CBIO_microbiome_workshop_2017_III_Where_are_we_now.pdf) |
 | 12:00-13:00 | How important is sample collection and DNA/RNA extraction when profiling microbial communities | Shantelle |Health - Wolfson Lab 1 | [IV](http://web.cbio.uct.ac.za/~gerrit/slides/shantelle/UCT_CBIO_microbiome_workshop_2017_IV_Sample_collection.pdf)|
 | 13:00-14:00 | Lunch | | MAC club | |
-| 14:00-15:00 | Library preparation for 16S rRNA sequencing|Shantelle |Health - Wolfson Lab 1 | [V](http://web.cbio.uct.ac.za/~gerrit/slides/shantelle/UCT_CBIO_microbiome_workshop_2017_V_16S_Library_Prep.pdf |
+| 14:00-15:00 | Library preparation for 16S rRNA sequencing|Shantelle |Health - Wolfson Lab 1 | [V](http://web.cbio.uct.ac.za/~gerrit/slides/shantelle/UCT_CBIO_microbiome_workshop_2017_V_16S_Library_Prep.pdf) |
 | 15:00-15:30 | Coffee / tea break||IDM cafeteria | |
 | 15:30-17:00 | 16S rRNA sequencing bio-informatics pipeline: the theory|Samson|Health - Wolfson Lab 1|[The microbiome: analysis of NGS data](http://web.cbio.uct.ac.za/~gerrit/slides/Microbiome_Analysis_of_NGS_data.pdf)|
 | **Wednesday 25 October** | | | | |
