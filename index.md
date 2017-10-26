@@ -31,7 +31,7 @@ layout: page
 | 15:00-15:30 | Coffee / tea break | | IDM cafeteria | |
 | 15:30-17:00 | Tutorial in usearch and QIIME | Gerrit / Samson | Health - Wolfson Lab 1 | |
 | **Thursday 26 October** | | | | |
-| 09:00-09:45 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 |[Downstream analysis intro](http://web.cbio.uct.ac.za/~gerrit/slides/katie/20170221_cbio_16S_downstream_R.pdf)[Downstream analysis in R tutorial](https://github.com/grbot/16SrRNA-hex-tutorial/tree/master/downstream) |
+| 09:00-09:45 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 |[Downstream analysis intro](http://web.cbio.uct.ac.za/~gerrit/slides/katie/20170221_cbio_16S_downstream_R.pdf), [Downstream analysis in R tutorial](https://github.com/grbot/16SrRNA-hex-tutorial/tree/master/downstream) |
 | 09:45-10:30 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 | |
 | 10:30-11:00 | Coffee / tea break | | IDM cafeteria | |
 | 11:00-12:30 | Downstream analysis in R - Phyloseq, NMF|Katie / Jerome | Health - Wolfson Lab 1 | |
