@@ -41,7 +41,7 @@ layout: page
 | 15:30-17:00 | Downstream analysis in R - Phyloseq, NMF | Katie / Jerome | Health - Wolfson Lab 1 | |
 | **Friday 27 October** | | | | |
 | 09:00-10:00 | Overview of shotgun sequence analysis | Katie | Aadil Moerat Conference Room | [Introduction to metagenomics](http://web.cbio.uct.ac.za/~gerrit/slides/katie/Oct2017_microbiome_workshop_metagenomics_intro.pdf)|
-| 10:00-10:30 | Talk by CBIO researcher on their microbiome work  | Kirsty | Aadil Moerat Conference Room | [Kirsty's talk](http://web.cbio.uct.ac.za/~gerrit/slides/kirsty/microbiome_workshop_presentation.pdf) |
+| 10:00-10:30 | Talk by CBIO researcher on their microbiome work  | Kirsty | Aadil Moerat Conference Room | [Kirsty's talk](http://web.cbio.uct.ac.za/~gerrit/slides/kirsty/microbiome_workshop_presentation.pdf), [Kirsty's poster](http://web.cbio.uct.ac.za/~gerrit/slides/kirsty/Poster.pdf) |
 | 10:30-11:00 | Coffee / tea break | | IDM cafeteria | |
 | 11:00-12:30 | Working through parts not completed during practicals or helping participants with their own data. | Gerrit / Katie / Samson / Jerome|Health - Wolfson Lab 1 | |
 | 12:30-13:30 | Lunch | | MAC club | |
